@@ -4,4 +4,4 @@
 
 ### [Lesson 02 - PostgreSQL from the Command Line](https://github.com/Code-Institute-Solutions/postgresql-and-python/tree/main/02_postgresql_from_the_command_line)
 
-
+### [Lesson 03 - Installing the Libraries and Setting Up](https://github.com/Code-Institute-Solutions/postgresql-and-python/tree/main/03_installing_the_libraries_and_setting_up)
