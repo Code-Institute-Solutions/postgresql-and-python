@@ -13,3 +13,5 @@
 ### [Lesson 06 - Introducing Class-Based Models](https://github.com/Code-Institute-Solutions/postgresql-and-python/tree/main/06_introducing_class_based_models)
 
 ### [Lesson 07 - CodeAlong: Create and Read](https://github.com/Code-Institute-Solutions/postgresql-and-python/tree/main/07_codealong_create_and_read)
+
+### [Lesson 08 - CodeAlong: Update and Delete](https://github.com/Code-Institute-Solutions/postgresql-and-python/tree/main/08_codealong_update_and_delete)
