@@ -3,8 +3,8 @@
 ---
 
 ### Download the Chinook PostgreSql database
-- [source](https://github.com/lerocha/chinook-database/blob/master/ChinookDatabase/DataSources/Chinook_PostgreSql.sql)
-- `wget https://raw.githubusercontent.com/lerocha/chinook-database/master/ChinookDatabase/DataSources/Chinook_PostgreSql.sql`
+- [source](https://github.com/Code-Institute-Solutions/postgresql-and-python/blob/main/01_installing_the_chinook_database/Chinook_PostgreSql.sql)
+- `wget https://raw.githubusercontent.com/Code-Institute-Solutions/postgresql-and-python/main/01_installing_the_chinook_database/Chinook_PostgreSql.sql`
 
 ### Access the Postgres CLI
 - `psql`
